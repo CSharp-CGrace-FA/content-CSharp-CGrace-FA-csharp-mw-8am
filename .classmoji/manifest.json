@@ -1,5 +1,11 @@
 {
-  "repositories": {},
+  "repositories": {
+    "c-chapter-1-debugs": {
+      "pages": [],
+      "slides": [],
+      "assignments": {}
+    }
+  },
   "general": {
     "pages": [],
     "slides": []
