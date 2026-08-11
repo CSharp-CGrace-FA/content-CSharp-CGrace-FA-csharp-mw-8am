@@ -1,14 +1,13 @@
 {
   "repositories": {
-    "c-chapter-1-debugs": {
-      "pages": [],
-      "slides": [],
-      "assignments": {}
-    },
     "csharp-chapter1-debugs": {
       "pages": [],
       "slides": [],
       "assignments": {
+        "debugone3": {
+          "pages": [],
+          "slides": []
+        },
         "debugone11": {
           "pages": [],
           "slides": []
